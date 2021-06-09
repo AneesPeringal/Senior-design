@@ -8,3 +8,4 @@ dependencies:
 3) python 3: sudo apt install python3 ( this should be installed with ros noetic)
 4) vrpn_client: sudo apt-get install ros-noetic-vrpn-client-ros
 
+Note: there is some discrepancy between the code that is available here and the code that is in the report. I will update the code here at some point.
